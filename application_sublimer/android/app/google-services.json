@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835265314175",
+    "project_id": "sublimer-c3243",
+    "storage_bucket": "sublimer-c3243.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835265314175:android:0423b340a584c59496ae4a",
+        "android_client_info": {
+          "package_name": "com.example.application_sublimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835265314175-5es3l92ruhrutvi6ips48a5t9odnl4ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7RlIjOvm7tRwfrwMNQsFLaOJzMKVkG6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835265314175-5es3l92ruhrutvi6ips48a5t9odnl4ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
